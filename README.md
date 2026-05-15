@@ -4,9 +4,8 @@
 🤖 AI/ML + Product Management + Tech Consulting  
 🌏 Interested in AI, media governance, and building tech that actually makes sense in the real world  
 
-I enjoy building systems end-to-end — from shaping messy data into something usable, to thinking about how models behave once they’re placed in real environments, interacting with people and influencing decisions.
+I enjoy building systems end-to-end! Be it shaping messy data into something usable, or thinking about how models behave once they’re placed in real environments, interacting with people and influencing decisions.
 Lately, I’ve been especially curious about **media and platform governance** — how recommendation systems, content, and human behaviour quietly shape one another.
-
 
 
 ## Selected Work
@@ -35,7 +34,7 @@ A deep learning pipeline for classifying 102 flower species.
 
 - 🧠 **AI Product @ TikTok (ByteDance)**  
   Improved data validation systems & shipped features with engineers + data scientists  
-  → Reduced annotation discrepancies by 25%
+  → Reduced data annotation discrepancies 
 
 - ⚙️ **GenAI / BI @ Accenture**  
   Prototyped AI systems end-to-end (OpenAI + AWS + SQL pipelines)  
