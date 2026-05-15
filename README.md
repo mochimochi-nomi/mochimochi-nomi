@@ -57,16 +57,12 @@ A deep learning pipeline for classifying 102 flower species.
 ![Agile](https://img.shields.io/badge/Agile-Scrum-0A0A0A?style=flat)
 ---
 
-## 🤝 Let’s Connect
+## 📫 Reach out / Connect
 
 I’d love to meet people who are also excited about:
-
 - Designing **AI systems that are not just accurate, but usable and responsible**  
 - Bridging the gap between **technical depth and product intuition**  
 - Understanding how technology scales — and what gets lost (or amplified) along the way  
-
-📫 Reach out / connect:
 - LinkedIn: [https://www.linkedin.com/in/adelenjw/]
-- Email: adeleariana@gmail.com
 
 ``
