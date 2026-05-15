@@ -30,29 +30,31 @@ A deep learning pipeline for classifying 102 flower species.
 
 ---
 
-## 💡 What I’ve Worked On
-
-- 🧠 **AI Product @ TikTok (ByteDance)**  
-  Improved data validation systems & shipped features with engineers + data scientists  
-  → Reduced data annotation discrepancies 
-
-- ⚙️ **GenAI / BI @ Accenture**  
-  Prototyped AI systems end-to-end (OpenAI + AWS + SQL pipelines)  
-  → Improved query resolution speed by up to 60%
-
-- ☁️ **Data & Cloud @ PwC**  
-  Worked on enterprise cloud migration + data analytics platforms (Azure, Databricks)
-
----
-
 ## 🛠 Tech Stack
 
-**Languages:** Python, JavaScript, Java  
-**AI/ML:** PyTorch, RAG, model fine-tuning, evaluation pipelines  
-**Data:** SQL, PySpark, Databricks  
-**Cloud:** AWS, Azure  
-**Product & Tools:** Figma, Jira, Agile/Scrum  
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat)
+![Model Fine-tuning](https://img.shields.io/badge/Fine--Tuning-9C27B0?style=flat)
+
+**Data**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=flat&logo=apache-spark&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat)
+
+**Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+**Product & Tools**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-Scrum-0A0A0A?style=flat)
 ---
 
 ## 🤝 Let’s Connect
