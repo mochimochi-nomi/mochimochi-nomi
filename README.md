@@ -1,22 +1,15 @@
-# Hi, I’m Adele 🌸
+# Hi, I’m Adele 🌿
 
 🎓 NTU Computer Science Graduate (AI)  
 🤖 AI/ML + Product Management + Tech Consulting  
 🌏 Interested in AI, media governance, and building tech that actually makes sense in the real world  
 
----
-
-## 🌱 About Me
-
-I love building at the intersection of **AI, products, and real-world impact**.
-
-- 🤖 Turning ML models into usable products 
-- 🧠 Thinking about **how AI systems behave at scale** — from recommendation engines to data governance  
-- 🏗 Bridging **data → model → interface** (and everything in between)
-- 🌏 Curious about **tech & media governance**, especially how platforms shape information
+I enjoy building systems end-to-end — from shaping messy data into something usable, to thinking about how models behave once they’re placed in real environments, interacting with people and influencing decisions.
+Lately, I’ve been especially curious about **media and platform governance** — how recommendation systems, content, and human behaviour quietly shape one another.
 
 
-## Featured Projects
+
+## Selected Work
 
 ### 🐦 Bird Sound Recognition & RAG Assistant
 A project combining **bioacoustics + LLMs** for local species understanding.
@@ -66,11 +59,13 @@ A deep learning pipeline for classifying 102 flower species.
 ## 🤝 Let’s Connect
 
 I’d love to meet people who are also excited about:
-- AI x Product  
-- Building meaningful tech  
-- Or just… good coffee ☕
+
+- Designing **AI systems that are not just accurate, but usable and responsible**  
+- Bridging the gap between **technical depth and product intuition**  
+- Understanding how technology scales — and what gets lost (or amplified) along the way  
 
 📫 Reach out / connect:
 - LinkedIn: [https://www.linkedin.com/in/adelenjw/]
+- Email: adeleariana@gmail.com
 
 ``
