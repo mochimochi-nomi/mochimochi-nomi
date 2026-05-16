@@ -31,24 +31,12 @@ A deep learning pipeline for classifying 102 flower species.
 
 ## 🛠 Tech Stack
 
-**Languages**  
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,java)](https://skillicons.dev)
-
-**AI / ML**  
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
-![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat)
-
-**Data**  
 [![My Skills](https://skillicons.dev/icons?i=mysql,spark)](https://skillicons.dev)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat)
-
-**Cloud**  
 [![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
-
-**Product & Tools**  
 [![My Skills](https://skillicons.dev/icons?i=figma,github,notion,discord,androidstudio)](https://skillicons.dev)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum-0A0A0A?style=flat)
+
 
 ## 📫 Reach out / Connect
 
