@@ -36,7 +36,7 @@ A deep learning pipeline for classifying 102 flower species.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="48" height="48" />
-<img src="https://api.iconify.design/logos:hugging-face-icon.svg" height="36" alt="OpenAI" />
+<img src="https://api.iconify.design/logos:hugging-face-icon.svg" width="48" height="50" alt="hugging face" />
 
 
 **LLM / Agentic AI**  
