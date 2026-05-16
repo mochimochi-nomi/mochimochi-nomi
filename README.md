@@ -2,13 +2,10 @@
 
 🎓 NTU Computer Science Graduate (AI)  
 🤖 AI/ML + Product Management + Tech Consulting  
-🌏 Interested in AI, media governance, and building tech that actually makes sense in the real world  
+🌏 Interested in AI, user experience, data governance, and building tech that actually makes sense in the real world  
+⛰️ Nature Lover
 
-I enjoy building systems end-to-end! Be it shaping messy data into something usable, or thinking about how models behave once they’re placed in real environments, interacting with people and influencing decisions.
-Lately, I’ve been especially curious about **media and platform governance** — how recommendation systems, content, and human behaviour quietly shape one another.
-
-
-## Selected Work
+## Selected Work 
 
 ### 🐦 Bird Sound Recognition & RAG Assistant
 A project combining **bioacoustics + LLMs** for local species understanding.
@@ -31,11 +28,34 @@ A deep learning pipeline for classifying 102 flower species.
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,java)](https://skillicons.dev)
+**Languages**  
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,java,c,cpp)](https://skillicons.dev)
+
+**AI / ML**  
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,spark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,github,notion,discord,androidstudio)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="48" height="48" />
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Data Science & Analytics**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />
+
+**Databases & Big Data**  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="48" height="48" />
+
+**Cloud & DevOps**  
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes)](https://skillicons.dev)
+
+**Development Tools**  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio)](https://skillicons.dev)
+
+**Collaboration & Product**  
+[![My Skills](https://skillicons.dev/icons?i=figma,notion,discord)](https://skillicons.dev)
 
 
 ## 📫 Reach out / Connect
