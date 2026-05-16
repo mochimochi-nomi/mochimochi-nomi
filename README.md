@@ -29,7 +29,7 @@ A deep learning pipeline for classifying 102 flower species.
 ## 🛠 Tech Stack
 
 **Languages**  
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,java,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,java)](https://skillicons.dev)
 
 **AI / ML**  
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
