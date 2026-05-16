@@ -36,11 +36,12 @@ A deep learning pipeline for classifying 102 flower species.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="48" height="48" />
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+<img src="https://api.iconify.design/logos:hugging-face-icon.svg" height="36" alt="OpenAI" />
+
 
 **LLM / Agentic AI**  
-<img src="https://api.iconify.design/logos:openai.svg" height="36" alt="OpenAI" />
-<img src="https://api.iconify.design/logos:claude.svg" height="36" alt="Claude (Anthropic)" />
+<img src="https://api.iconify.design/logos:openai-icon.svg" height="36" alt="OpenAI" />
+<img src="https://api.iconify.design/logos:claude-icon.svg" height="36" alt="Claude (Anthropic)" />
 <img src="https://api.iconify.design/arcticons:manus.svg" width="48" height="50" alt="Manus AI" />
 <img src="https://cdn.simpleicons.org/githubcopilot" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" />
