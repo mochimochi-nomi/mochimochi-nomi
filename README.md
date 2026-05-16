@@ -25,16 +25,53 @@ A deep learning pipeline for classifying 102 flower species.
 - 🌼 Achieved **96.78% Top-1 accuracy**
 
 ---
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="40%">
+**Languages**  
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,java)](https://skillicons.dev)
 
-<pre>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
+**AI / ML**  
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="48" height="48" />
+<img src="https://api.iconify.design/logos:hugging-face-icon.svg" width="48" height="50" alt="hugging face" />
+
+
+**LLM / Agentic AI**  
+<img src="https://api.iconify.design/logos:openai-icon.svg" width="48" height="50"  alt="OpenAI" />
+<img src="https://api.iconify.design/logos:claude-icon.svg" width="48" height="50" alt="Claude (Anthropic)" />
+<img src="https://api.iconify.design/arcticons:manus.svg" width="48" height="50" alt="Manus AI" />
+<img src="https://cdn.simpleicons.org/githubcopilot" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/n8n" width="48" height="48" />
+
+**Data Science & Analytics**  
+<img src="https://api.iconify.design/logos:pandas.svg" width="48" height="50"  alt="pandas" />
+<img src="https://api.iconify.design/logos:jupyter" width="48" height="50"  alt="jupyter" />
+<img src="https://api.iconify.design/logos:matplotlib" width="48" height="50"  alt="matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" />
+
+**Databases & Big Data**  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="48" height="48" />
+
+**Cloud & DevOps**  
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes)](https://skillicons.dev)
+
+**Development Tools**  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio)](https://skillicons.dev)
+
+**Collaboration & Product**  
+[![My Skills](https://skillicons.dev/icons?i=figma,notion,discord)](https://skillicons.dev)
+
+---
+
+## 📫 Reach out / Connect
+
+https://www.linkedin.com/in/adelenjw/
+I’d love to meet people who are also excited about bridging the gap between **technical depth and product intuition**, and understanding how technology scales — what gets lost (or amplified) along the way  
+
+                                                                               
                                                                                                     
                                                        .*##+                                        
                                                 :##-   *##@.                                        
@@ -86,59 +123,5 @@ A deep learning pipeline for classifying 102 flower species.
                                                                                                     
                                                                                                     
                                                                                                     
-</pre>
-
-</td>
-<td width="60%">
-
-**Languages**  
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,java)](https://skillicons.dev)
-
-**AI / ML**  
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="48" height="48" />
-<img src="https://api.iconify.design/logos:hugging-face-icon.svg" width="48" height="50" alt="hugging face" />
 
 
-**LLM / Agentic AI**  
-<img src="https://api.iconify.design/logos:openai-icon.svg" width="48" height="50"  alt="OpenAI" />
-<img src="https://api.iconify.design/logos:claude-icon.svg" width="48" height="50" alt="Claude (Anthropic)" />
-<img src="https://api.iconify.design/arcticons:manus.svg" width="48" height="50" alt="Manus AI" />
-<img src="https://cdn.simpleicons.org/githubcopilot" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/n8n" width="48" height="48" />
-
-**Data Science & Analytics**  
-<img src="https://api.iconify.design/logos:pandas.svg" width="48" height="50"  alt="pandas" />
-<img src="https://api.iconify.design/logos:jupyter" width="48" height="50"  alt="jupyter" />
-<img src="https://api.iconify.design/logos:matplotlib" width="48" height="50"  alt="matplotlib" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" />
-
-**Databases & Big Data**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="48" height="48" />
-
-**Cloud & DevOps**  
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes)](https://skillicons.dev)
-
-**Development Tools**  
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,androidstudio)](https://skillicons.dev)
-
-**Collaboration & Product**  
-[![My Skills](https://skillicons.dev/icons?i=figma,notion,discord)](https://skillicons.dev)
-
-</td>
-</tr>
-</table>
-
-## 🛠 Tech Stack
-
-
-
-## 📫 Reach out / Connect
-
-https://www.linkedin.com/in/adelenjw/
-I’d love to meet people who are also excited about bridging the gap between **technical depth and product intuition**, and understanding how technology scales — what gets lost (or amplified) along the way  
-
-``
