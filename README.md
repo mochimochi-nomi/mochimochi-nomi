@@ -26,7 +26,70 @@ A deep learning pipeline for classifying 102 flower species.
 
 ---
 
-## 🛠 Tech Stack
+<table>
+<tr>
+<td width="40%">
+
+<pre>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                       .*##+                                        
+                                                :##-   *##@.                                        
+                                                :##%  *%%%:                                         
+                                                .#%%+ %%%-  .:*#+.                                  
+                                                 .%%*#%%-=#%###%#.                                  
+                                                  .#%%%%%%%#+=:.                                    
+                                         .==-=-.....:-=+=-:                                         
+                                .*:-=-++:......:::...:::::::+-.                                     
+                               :+::==.........:::::...::::::::-=:                                   
+                            .:=--+::.........:::::....:::::::::::*.  ..                             
+                           .=---+:=*=:..........::.:::::::::::::=::*=:-.                            
+                          -----*=...  ..=....::::::-+:..:+-:::**-:::::-.                            
+                        .+----*:........-:::::::::-........-::=-:::::::+.                           
+                        -=-----:--......=::::::::*..........#::+::::::::=-                          
+                       .#------::::==-===--=-:::::=........=-:--*::::::::-+.                        
+                       =------*::-:-:+:..::::--=-::::*--++::----=::::::::::+.                       
+                       +-------*=-....=..::-:::......:+:---------:::::::::::=.                      
+                       +------=*.........::...........+---------=::::::::::::+:                     
+                        *--+-.......................:+-----------:::::::::::::=                     
+                        :-.........................:=-----------*::::::::::::::*                    
+                      ::...........................:+-------*=--+::::::::::::::=.                   
+                     -.............................:%#=-+------:+-:::::::::::::-:                   
+                     =............................::*---------------::::::::::--:                   
+                     .=...........................::*-----------=--------:::::-+.                   
+                       -::......................:::*------------*--------------:                    
+                        .+.::.................:::+--------------+=------------=                     
+                           ..*::::::::::::::.+=:::::::------------*---------*.                      
+                             .:::::-----::::::::::::::::::::-:---------------.                      
+                             :::::::::::::::::::::::::::::::::---------------=                      
+                            .#::::::::::::::::::::::::::::::::::-------------*.                     
+                            ::::::::::::::::::::::::::::::::::::---------------                     
+                  ==.       =:::::::::::::::::::.:::::::::::::::--------------=                     
+                  --:-=+****#:::::::::::::::::::::::::::::::::----------------=                     
+                   -=-------+-:::::::::::::::::::::::::::::::--------------*+:-                     
+                    .+------=---:::::::::::::::::::::::::-----------:*----.:-#.                     
+                     .-=-----#-------::::::::::::::--------------:-.::::::--==-==-                  
+                       .==---==---------------------------------=:.:----------::=.                  
+                         :+=--++--------------------------------=.:----------:-=.                   
+                           .=+==*=-----------------------------*.::----------=-                     
+                              .=++*----------------------------:.:----------=.                      
+                                   .+=------------------------=-.:--------+:                        
+                                    :+-=#=-----------+*-.      .=::----=+.                          
+                                  -+-::::::-------+:            ..:--..                             
+                                 -:-==::......:::--*.                                               
+                                       .-:.=+=---=-:=                                               
+                                          .        .                                                
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+</pre>
+
+</td>
+<td width="60%">
 
 **Languages**  
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,java)](https://skillicons.dev)
@@ -47,10 +110,10 @@ A deep learning pipeline for classifying 102 flower species.
 <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" />
 
 **Data Science & Analytics**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" />
+<img src="https://api.iconify.design/logos:pandas.svg" width="48" height="50"  alt="pandas" />
+<img src="https://api.iconify.design/logos:jupyter" width="48" height="50"  alt="jupyter" />
+<img src="https://api.iconify.design/logos:matplotlib" width="48" height="50"  alt="matplotlib" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />
 
 **Databases & Big Data**  
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
@@ -64,6 +127,13 @@ A deep learning pipeline for classifying 102 flower species.
 
 **Collaboration & Product**  
 [![My Skills](https://skillicons.dev/icons?i=figma,notion,discord)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
+
+## 🛠 Tech Stack
+
 
 
 ## 📫 Reach out / Connect
