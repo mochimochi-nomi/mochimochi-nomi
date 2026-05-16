@@ -47,8 +47,8 @@ A deep learning pipeline for classifying 102 flower species.
 
 **Data Science & Analytics**  
 <img src="https://api.iconify.design/logos:pandas.svg" width="48" height="50"  alt="pandas" />
-<img src="https://api.iconify.design/logos:jupyter" width="48" height="50"  alt="jupyter" />
-<img src="https://api.iconify.design/logos:matplotlib" width="48" height="50"  alt="matplotlib" />
+<img src="https://api.iconify.design/logos:jupyter.svg" width="48" height="50"  alt="jupyter" />
+<img src="https://api.iconify.design/logos:matplotlib.svg" width="48" height="50"  alt="matplotlib" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" />
 
 **Databases & Big Data**  
