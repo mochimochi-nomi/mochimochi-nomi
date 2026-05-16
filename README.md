@@ -41,7 +41,7 @@ A deep learning pipeline for classifying 102 flower species.
 **LLM**  
 <img src="https://api.iconify.design/logos:openai-icon.svg" height="36" alt="OpenAI" />
 <img src="https://api.iconify.design/logos:claude.svg" height="36" alt="Claude (Anthropic)" />
-<img src="https://api.iconify.design/articons:manus.svg" height="36" alt="Manus AI" />
+<img src="https://api.iconify.design/arcticons:manus.svg" height="36" alt="Manus AI" />
 <img src="https://cdn.simpleicons.org/githubcopilot" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" />
 
