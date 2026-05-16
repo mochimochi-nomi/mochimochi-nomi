@@ -39,9 +39,9 @@ A deep learning pipeline for classifying 102 flower species.
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **LLM**  
-  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="OpenAI" />
-  <img src="https://cdn.simpleicons.org/anthropic/000000" height="40" alt="Claude (Anthropic)" />
-  <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" height="40" alt="Manus AI" />
+<img src="https://api.iconify.design/logos:openai-icon.svg" height="36" alt="OpenAI" />
+<img src="https://api.iconify.design/logos:claude.svg" height="36" alt="Claude (Anthropic)" />
+<img src="https://api.iconify.design/articons:manus.svg" height="36" alt="Manus AI" />
 <img src="https://cdn.simpleicons.org/githubcopilot" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/n8n" width="48" height="48" />
 
