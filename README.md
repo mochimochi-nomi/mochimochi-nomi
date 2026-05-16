@@ -38,7 +38,7 @@ A deep learning pipeline for classifying 102 flower species.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" width="48" height="48" />
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-**LLM**  
+**LLM / Agentic AI**  
 <img src="https://api.iconify.design/logos:openai.svg" height="36" alt="OpenAI" />
 <img src="https://api.iconify.design/logos:claude.svg" height="36" alt="Claude (Anthropic)" />
 <img src="https://api.iconify.design/arcticons:manus.svg" width="48" height="50" alt="Manus AI" />
