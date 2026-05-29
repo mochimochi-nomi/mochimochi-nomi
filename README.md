@@ -2,7 +2,7 @@
 
 🎓 NTU Computer Science Graduate (AI)  
 🤖 AI/ML + Product Management + Tech Consulting  
-🌏 Interested in AI, user experience, data governance, and building tech that actually makes sense in the real world  
+🌏 Interested in AI, user experience, data governance
 ⛰️ Nature Lover
 
 
