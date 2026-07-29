@@ -9,7 +9,6 @@
 
 ### 🐦 Bird Sound Recognition & RAG Assistant
 A project combining **bioacoustics + LLMs** for local species understanding.
- *Making nature more accessible through AI*
 
 - 🎧 Fine-tuned BirdNET using transfer learning for Singapore species  
 - 📈 Achieved **2× improvement in local classification accuracy**
@@ -18,7 +17,6 @@ A project combining **bioacoustics + LLMs** for local species understanding.
 
 ### 🌸 Flower Recognition with CNNs
 A deep learning pipeline for classifying 102 flower species.
- *Exploring how machines “see” nature*
  
 - 🧠 Compared multiple CNN backbones with architectural tweaks
 - ⚙️ Implemented dual-loss training (Cross Entropy + Triplet Loss)
