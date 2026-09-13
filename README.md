@@ -1,28 +1,9 @@
-# Hi, I’m Adele 🌿
+# Hi! I'm Adele ☺️
 
-🎓 NTU Computer Science Graduate (AI)  
-🤖 AI/ML + Product Management + Tech Consulting  
-🌏 Interested in AI, user experience, data governance
-⛰️ Nature Lover
+🎓 I studied Computer Science (AI) in NTU 
+🤖 Internship experience with Tiktok, OCBC Bank, PwC Consulting and Accenture
+
                                
-## Selected Work 
-
-### 🐦 Bird Sound Recognition & RAG Assistant
-A project combining **bioacoustics + LLMs** for local species understanding.
-
-- 🎧 Fine-tuned BirdNET using transfer learning for Singapore species  
-- 📈 Achieved **2× improvement in local classification accuracy**
-- 💬 Built a **RAG-powered assistant** grounded in curated bird knowledge  
-
-
-### 🌸 Flower Recognition with CNNs
-A deep learning pipeline for classifying 102 flower species.
- 
-- 🧠 Compared multiple CNN backbones with architectural tweaks
-- ⚙️ Implemented dual-loss training (Cross Entropy + Triplet Loss)
-- 🌼 Achieved **96.78% Top-1 accuracy**
-
----
 ## 🛠 Tech Stack
 
 **Languages**  
@@ -68,28 +49,7 @@ A deep learning pipeline for classifying 102 flower species.
 https://www.linkedin.com/in/adelenjw/
                                                                      
 
-<pre>
-                                        @@@@@#**+**#@@@@@@                                          
-                              @@@@@@@@%+:..            .:-*@@@@@@@@@@@@@                            
-                         @@@@*-...+=:                       .-#.     .-=#@@@@@@@@@@@@@@@@@@%###@@@@ 
-                     @@@@*:                                                 .:=++++=-..         .-@@
-                @@@@@#-.       .                                  .                               =@
-   @@@@@@@@@@@@%+:            +:                                  :#.                             -@
- @@=.                       .@+                                    =@.                            #@
-@%.                         #%.                                    .%@:                         .*@@
-@*                         =@.   ..:::..                 .:-==-.    .@@%=.                     :%@@ 
-@@.                      .+@#    .....-=:               ::.          #  @@@*-..           ..:=@@@   
-@@%.                   .+@@@# ...::...      .:.....#.      ....::....%       @@@@@@@@@@@@@@@@@      
-  @@*.              .:@@@   @=::::::::.     .%%+-=*+.      .:::::::.*@                              
-    @@@+:.     .:+%@@@       @@@%-%+...                   ...*%+@@*%@                               
-      @@@@@@@@@@@@@           @:...:=%=..               ..*#-:...*@                                 
-                              %%=*=-+@@#####%%%%%%%%%%%###@++-#@-@@+*%@@                            
-                             @*..... ..                   .. ....:@=  .#@@                          
-                               @#@-:::.                  ..::--@=*.     *@                          
-                              @@-:%@*..                  ..:@@@#. =@=   .@@                         
-                              @.  .+-                     -@=..=@. .%+   +@                         
-                              @                          ...   :@@#@%:  .@@                         
-                              @.                               =@.     .%@                          
+                               
                               @%.  .+@#=-:::...........:-=.  .-@:   .:=@@                           
                                @@@@@@     @@@@@@@@@@@@@@@@@%#@@@@@@@@@                              
 </pre>
