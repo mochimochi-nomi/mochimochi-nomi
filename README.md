@@ -4,7 +4,7 @@ I'm a Computer Science (AI) graduate from NTU with a background spanning TikTok 
 
 Outside of work, I love classic literature, keeping up with Formula 1, and spending time around nature and flowers. Right now, I'm using my free time to merge these interests into a few personal side projects.
 
-## 🛠️ What I'm Building
+## 🌟 What I'm Building
 **F1 Telemetry & Meme Dashboard:** A fun, chibified dashboard tracking race telemetry alongside iconic community memes.
 
 **Reading Sprint Planner:** A lightweight tool to map out personal reading goals and track classic literature sprints.
