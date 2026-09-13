@@ -1,6 +1,6 @@
 # Hi! I'm Adele ☺️👋
 
-I'm a Computer Science (AI) graduate from NTU with a background spanning TikTok (Data Acquisition), Accenture (GenAI Initiatives), PwC (Cloud Consulting), OCBC (Global Markets) /
+I'm a Computer Science (AI) graduate from NTU with a background spanning TikTok (Data Acquisition), Accenture (GenAI Initiatives), PwC (Cloud Consulting), OCBC (Global Markets).
 
 Outside of work, I love classic literature, keeping up with Formula 1, and spending time around nature and flowers. Right now, I'm using my free time to merge these interests into a few personal side projects.
 
