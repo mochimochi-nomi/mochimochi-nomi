@@ -59,11 +59,7 @@ Outside of work, I love classic literature, keeping up with Formula 1, and spend
 
 ## 📫 Reach out / Connect
 https://www.linkedin.com/in/adelenjw/
-                                                                     
-
-                               
-                              @%.  .+@#=-:::...........:-=.  .-@:   .:=@@                           
-                               @@@@@@     @@@@@@@@@@@@@@@@@%#@@@@@@@@@                              
+                                                                                            
 </pre>
                                                                                                  
 
