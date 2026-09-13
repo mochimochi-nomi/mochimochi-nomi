@@ -1,9 +1,21 @@
-# Hi! I'm Adele ☺️
+# Hi! I'm Adele ☺️👋
 
-🎓 I studied Computer Science (AI) in NTU 
-🤖 Internship experience with Tiktok, OCBC Bank, PwC Consulting and Accenture
+I'm a Computer Science (AI) graduate from NTU with a background spanning TikTok (Data Acquisition), Accenture (GenAI Initiatives), PwC (Cloud Consulting), OCBC (Global Markets) /
 
-                               
+Outside of work, I love classic literature, keeping up with Formula 1, and spending time around nature and flowers. Right now, I'm using my free time to merge these interests into a few personal side projects.
+
+## 🛠️ What I'm Building
+**F1 Telemetry & Meme Dashboard:** A fun, chibified dashboard tracking race telemetry alongside iconic community memes.
+
+**Reading Sprint Planner:** A lightweight tool to map out personal reading goals and track classic literature sprints.
+
+## 👩🏻‍💻 Selected Past Projects
+**Singapore Bird Audio Classifier:** Global bioacoustic models like BirdNET underperform on Southeast Asian species due to regional training bias. I used transfer learning to improve classification accuracy specifically for local Singapore garden birds.
+
+**Localized Eco-RAG Pipeline:** General-purpose LLMs lack local biodiversity knowledge. Built a retrieval-augmented generation pipeline grounded in regional environmental data to deliver accurate local insights.
+
+**Oxford Flowers-102 Identification:** End-to-end deep learning computer vision model for fine-grained flower species classification.                               
+
 ## 🛠 Tech Stack
 
 **Languages**  
